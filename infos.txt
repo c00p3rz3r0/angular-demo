@@ -1,0 +1,4 @@
+package.json = alle benötigten libraries
+package-lock.json = alle bereits installierten libraries
+mit npn install, können alle benötigten libraries heruntergeladen werden
+node-moduls beinhaltet alle libraries
